@@ -1,0 +1,1902 @@
+[
+    {
+        "DisplayName": "Afrikaans (South Africa) Female",
+        "ShortName": "af-ZA-AdriNeural"
+    },
+    {
+        "DisplayName": "Afrikaans (South Africa) Male",
+        "ShortName": "af-ZA-WillemNeural"
+    },
+    {
+        "DisplayName": "Amharic (Ethiopia) Female",
+        "ShortName": "am-ET-MekdesNeural"
+    },
+    {
+        "DisplayName": "Amharic (Ethiopia) Male",
+        "ShortName": "am-ET-AmehaNeural"
+    },
+    {
+        "DisplayName": "Arabic (United Arab Emirates) Female",
+        "ShortName": "ar-AE-FatimaNeural"
+    },
+    {
+        "DisplayName": "Arabic (United Arab Emirates) Male",
+        "ShortName": "ar-AE-HamdanNeural"
+    },
+    {
+        "DisplayName": "Arabic (Bahrain) Female",
+        "ShortName": "ar-BH-LailaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Bahrain) Male",
+        "ShortName": "ar-BH-AliNeural"
+    },
+    {
+        "DisplayName": "Arabic (Algeria) Female",
+        "ShortName": "ar-DZ-AminaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Algeria) Male",
+        "ShortName": "ar-DZ-IsmaelNeural"
+    },
+    {
+        "DisplayName": "Arabic (Egypt) Female",
+        "ShortName": "ar-EG-SalmaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Egypt) Male",
+        "ShortName": "ar-EG-ShakirNeural"
+    },
+    {
+        "DisplayName": "Arabic (Iraq) Female",
+        "ShortName": "ar-IQ-RanaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Iraq) Male",
+        "ShortName": "ar-IQ-BasselNeural"
+    },
+    {
+        "DisplayName": "Arabic (Jordan) Female",
+        "ShortName": "ar-JO-SanaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Jordan) Male",
+        "ShortName": "ar-JO-TaimNeural"
+    },
+    {
+        "DisplayName": "Arabic (Kuwait) Female",
+        "ShortName": "ar-KW-NouraNeural"
+    },
+    {
+        "DisplayName": "Arabic (Kuwait) Male",
+        "ShortName": "ar-KW-FahedNeural"
+    },
+    {
+        "DisplayName": "Arabic (Lebanon) Female",
+        "ShortName": "ar-LB-LaylaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Lebanon) Male",
+        "ShortName": "ar-LB-RamiNeural"
+    },
+    {
+        "DisplayName": "Arabic (Libya) Female",
+        "ShortName": "ar-LY-ImanNeural"
+    },
+    {
+        "DisplayName": "Arabic (Libya) Male",
+        "ShortName": "ar-LY-OmarNeural"
+    },
+    {
+        "DisplayName": "Arabic (Morocco) Female",
+        "ShortName": "ar-MA-MounaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Morocco) Male",
+        "ShortName": "ar-MA-JamalNeural"
+    },
+    {
+        "DisplayName": "Arabic (Oman) Female",
+        "ShortName": "ar-OM-AyshaNeural"
+    },
+    {
+        "DisplayName": "Arabic (Oman) Male",
+        "ShortName": "ar-OM-AbdullahNeural"
+    },
+    {
+        "DisplayName": "Arabic (Qatar) Female",
+        "ShortName": "ar-QA-AmalNeural"
+    },
+    {
+        "DisplayName": "Arabic (Qatar) Male",
+        "ShortName": "ar-QA-MoazNeural"
+    },
+    {
+        "DisplayName": "Arabic (Saudi Arabia) Female",
+        "ShortName": "ar-SA-ZariyahNeural"
+    },
+    {
+        "DisplayName": "Arabic (Saudi Arabia) Male",
+        "ShortName": "ar-SA-HamedNeural"
+    },
+    {
+        "DisplayName": "Arabic (Syria) Female",
+        "ShortName": "ar-SY-AmanyNeural"
+    },
+    {
+        "DisplayName": "Arabic (Syria) Male",
+        "ShortName": "ar-SY-LaithNeural"
+    },
+    {
+        "DisplayName": "Arabic (Tunisia) Female",
+        "ShortName": "ar-TN-ReemNeural"
+    },
+    {
+        "DisplayName": "Arabic (Tunisia) Male",
+        "ShortName": "ar-TN-HediNeural"
+    },
+    {
+        "DisplayName": "Arabic (Yemen) Female",
+        "ShortName": "ar-YE-MaryamNeural"
+    },
+    {
+        "DisplayName": "Arabic (Yemen) Male",
+        "ShortName": "ar-YE-SalehNeural"
+    },
+    {
+        "DisplayName": "Azerbaijani (Latin, Azerbaijan) Female",
+        "ShortName": "az-AZ-BanuNeural"
+    },
+    {
+        "DisplayName": "Azerbaijani (Latin, Azerbaijan) Male",
+        "ShortName": "az-AZ-BabekNeural"
+    },
+    {
+        "DisplayName": "Bulgarian (Bulgaria) Female",
+        "ShortName": "bg-BG-KalinaNeural"
+    },
+    {
+        "DisplayName": "Bulgarian (Bulgaria) Male",
+        "ShortName": "bg-BG-BorislavNeural"
+    },
+    {
+        "DisplayName": "Bangla (Bangladesh) Female",
+        "ShortName": "bn-BD-NabanitaNeural"
+    },
+    {
+        "DisplayName": "Bangla (Bangladesh) Male",
+        "ShortName": "bn-BD-PradeepNeural"
+    },
+    {
+        "DisplayName": "Bengali (India) Female",
+        "ShortName": "bn-IN-TanishaaNeural"
+    },
+    {
+        "DisplayName": "Bengali (India) Male",
+        "ShortName": "bn-IN-BashkarNeural"
+    },
+    {
+        "DisplayName": "Bosnian (Bosnia and Herzegovina) Female",
+        "ShortName": "bs-BA-VesnaNeural"
+    },
+    {
+        "DisplayName": "Bosnian (Bosnia and Herzegovina) Male",
+        "ShortName": "bs-BA-GoranNeural"
+    },
+    {
+        "DisplayName": "Catalan (Spain) Female",
+        "ShortName": "ca-ES-JoanaNeural"
+    },
+    {
+        "DisplayName": "Catalan (Spain) Male",
+        "ShortName": "ca-ES-EnricNeural"
+    },
+    {
+        "DisplayName": "Catalan (Spain) Female",
+        "ShortName": "ca-ES-AlbaNeural"
+    },
+    {
+        "DisplayName": "Czech (Czechia) Female",
+        "ShortName": "cs-CZ-VlastaNeural"
+    },
+    {
+        "DisplayName": "Czech (Czechia) Male",
+        "ShortName": "cs-CZ-AntoninNeural"
+    },
+    {
+        "DisplayName": "Welsh (United Kingdom) Female",
+        "ShortName": "cy-GB-NiaNeural"
+    },
+    {
+        "DisplayName": "Welsh (United Kingdom) Male",
+        "ShortName": "cy-GB-AledNeural"
+    },
+    {
+        "DisplayName": "Danish (Denmark) Female",
+        "ShortName": "da-DK-ChristelNeural"
+    },
+    {
+        "DisplayName": "Danish (Denmark) Male",
+        "ShortName": "da-DK-JeppeNeural"
+    },
+    {
+        "DisplayName": "German (Austria) Female",
+        "ShortName": "de-AT-IngridNeural"
+    },
+    {
+        "DisplayName": "German (Austria) Male",
+        "ShortName": "de-AT-JonasNeural"
+    },
+    {
+        "DisplayName": "German (Switzerland) Female",
+        "ShortName": "de-CH-LeniNeural"
+    },
+    {
+        "DisplayName": "German (Switzerland) Male",
+        "ShortName": "de-CH-JanNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-KatjaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-ConradNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-AmalaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-BerndNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-ChristophNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-ElkeNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-GiselaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-KasperNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-KillianNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-KlarissaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-KlausNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-LouisaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-MajaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Male",
+        "ShortName": "de-DE-RalfNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-SeraphinaNeural"
+    },
+    {
+        "DisplayName": "German (Germany) Female",
+        "ShortName": "de-DE-TanjaNeural"
+    },
+    {
+        "DisplayName": "Greek (Greece) Female",
+        "ShortName": "el-GR-AthinaNeural"
+    },
+    {
+        "DisplayName": "Greek (Greece) Male",
+        "ShortName": "el-GR-NestorasNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-NatashaNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-WilliamNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-AnnetteNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-CarlyNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-DarrenNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-DuncanNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-ElsieNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-FreyaNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-JoanneNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-KenNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-KimNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-NeilNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Male",
+        "ShortName": "en-AU-TimNeural"
+    },
+    {
+        "DisplayName": "English (Australia) Female",
+        "ShortName": "en-AU-TinaNeural"
+    },
+    {
+        "DisplayName": "English (Canada) Female",
+        "ShortName": "en-CA-ClaraNeural"
+    },
+    {
+        "DisplayName": "English (Canada) Male",
+        "ShortName": "en-CA-LiamNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-SoniaNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-RyanNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-LibbyNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-AbbiNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-AlfieNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-BellaNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-ElliotNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-EthanNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-HollieNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-MaisieNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-NoahNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-OliverNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-OliviaNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Male",
+        "ShortName": "en-GB-ThomasNeural"
+    },
+    {
+        "DisplayName": "English (United Kingdom) Female",
+        "ShortName": "en-GB-MiaNeural"
+    },
+    {
+        "DisplayName": "English (Hong Kong SAR) Female",
+        "ShortName": "en-HK-YanNeural"
+    },
+    {
+        "DisplayName": "English (Hong Kong SAR) Male",
+        "ShortName": "en-HK-SamNeural"
+    },
+    {
+        "DisplayName": "English (Ireland) Female",
+        "ShortName": "en-IE-EmilyNeural"
+    },
+    {
+        "DisplayName": "English (Ireland) Male",
+        "ShortName": "en-IE-ConnorNeural"
+    },
+    {
+        "DisplayName": "English (India) Female",
+        "ShortName": "en-IN-NeerjaNeural"
+    },
+    {
+        "DisplayName": "English (India) Male",
+        "ShortName": "en-IN-PrabhatNeural"
+    },
+    {
+        "DisplayName": "English (Kenya) Female",
+        "ShortName": "en-KE-AsiliaNeural"
+    },
+    {
+        "DisplayName": "English (Kenya) Male",
+        "ShortName": "en-KE-ChilembaNeural"
+    },
+    {
+        "DisplayName": "English (Nigeria) Female",
+        "ShortName": "en-NG-EzinneNeural"
+    },
+    {
+        "DisplayName": "English (Nigeria) Male",
+        "ShortName": "en-NG-AbeoNeural"
+    },
+    {
+        "DisplayName": "English (New Zealand) Female",
+        "ShortName": "en-NZ-MollyNeural"
+    },
+    {
+        "DisplayName": "English (New Zealand) Male",
+        "ShortName": "en-NZ-MitchellNeural"
+    },
+    {
+        "DisplayName": "English (Philippines) Female",
+        "ShortName": "en-PH-RosaNeural"
+    },
+    {
+        "DisplayName": "English (Philippines) Male",
+        "ShortName": "en-PH-JamesNeural"
+    },
+    {
+        "DisplayName": "English (Singapore) Female",
+        "ShortName": "en-SG-LunaNeural"
+    },
+    {
+        "DisplayName": "English (Singapore) Male",
+        "ShortName": "en-SG-WayneNeural"
+    },
+    {
+        "DisplayName": "English (Tanzania) Female",
+        "ShortName": "en-TZ-ImaniNeural"
+    },
+    {
+        "DisplayName": "English (Tanzania) Male",
+        "ShortName": "en-TZ-ElimuNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-JennyMultilingualNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-JennyNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-GuyNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-AriaNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-DavisNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-AmberNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-AnaNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-AndrewNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-AshleyNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-BrandonNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-BrianNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-ChristopherNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-CoraNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-ElizabethNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-EmmaNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-EricNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-JacobNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-JaneNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-JasonNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-MichelleNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-MonicaNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-NancyNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-RogerNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-SaraNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-SteffanNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-TonyNeural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-AIGenerate1Neural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-AIGenerate2Neural"
+    },
+    {
+        "DisplayName": "English (United States) Neutral",
+        "ShortName": "en-US-BlueNeural"
+    },
+    {
+        "DisplayName": "English (United States) Female",
+        "ShortName": "en-US-JennyMultilingualV2Neural"
+    },
+    {
+        "DisplayName": "English (United States) Male",
+        "ShortName": "en-US-RyanMultilingualNeural"
+    },
+    {
+        "DisplayName": "English (South Africa) Female",
+        "ShortName": "en-ZA-LeahNeural"
+    },
+    {
+        "DisplayName": "English (South Africa) Male",
+        "ShortName": "en-ZA-LukeNeural"
+    },
+    {
+        "DisplayName": "Spanish (Argentina) Female",
+        "ShortName": "es-AR-ElenaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Argentina) Male",
+        "ShortName": "es-AR-TomasNeural"
+    },
+    {
+        "DisplayName": "Spanish (Bolivia) Female",
+        "ShortName": "es-BO-SofiaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Bolivia) Male",
+        "ShortName": "es-BO-MarceloNeural"
+    },
+    {
+        "DisplayName": "Spanish (Chile) Female",
+        "ShortName": "es-CL-CatalinaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Chile) Male",
+        "ShortName": "es-CL-LorenzoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Colombia) Female",
+        "ShortName": "es-CO-SalomeNeural"
+    },
+    {
+        "DisplayName": "Spanish (Colombia) Male",
+        "ShortName": "es-CO-GonzaloNeural"
+    },
+    {
+        "DisplayName": "Spanish (Costa Rica) Female",
+        "ShortName": "es-CR-MariaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Costa Rica) Male",
+        "ShortName": "es-CR-JuanNeural"
+    },
+    {
+        "DisplayName": "Spanish (Cuba) Female",
+        "ShortName": "es-CU-BelkysNeural"
+    },
+    {
+        "DisplayName": "Spanish (Cuba) Male",
+        "ShortName": "es-CU-ManuelNeural"
+    },
+    {
+        "DisplayName": "Spanish (Dominican Republic) Female",
+        "ShortName": "es-DO-RamonaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Dominican Republic) Male",
+        "ShortName": "es-DO-EmilioNeural"
+    },
+    {
+        "DisplayName": "Spanish (Ecuador) Female",
+        "ShortName": "es-EC-AndreaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Ecuador) Male",
+        "ShortName": "es-EC-LuisNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-ElviraNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-AlvaroNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-AbrilNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-ArnauNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-DarioNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-EliasNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-EstrellaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-IreneNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-LaiaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-LiaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-NilNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-SaulNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Male",
+        "ShortName": "es-ES-TeoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-TrianaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-VeraNeural"
+    },
+    {
+        "DisplayName": "Spanish (Spain) Female",
+        "ShortName": "es-ES-XimenaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Equatorial Guinea) Female",
+        "ShortName": "es-GQ-TeresaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Equatorial Guinea) Male",
+        "ShortName": "es-GQ-JavierNeural"
+    },
+    {
+        "DisplayName": "Spanish (Guatemala) Female",
+        "ShortName": "es-GT-MartaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Guatemala) Male",
+        "ShortName": "es-GT-AndresNeural"
+    },
+    {
+        "DisplayName": "Spanish (Honduras) Female",
+        "ShortName": "es-HN-KarlaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Honduras) Male",
+        "ShortName": "es-HN-CarlosNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-DaliaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-JorgeNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-BeatrizNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-CandelaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-CarlotaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-CecilioNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-GerardoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-LarissaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-LibertoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-LucianoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-MarinaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-NuriaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-PelayoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Female",
+        "ShortName": "es-MX-RenataNeural"
+    },
+    {
+        "DisplayName": "Spanish (Mexico) Male",
+        "ShortName": "es-MX-YagoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Nicaragua) Female",
+        "ShortName": "es-NI-YolandaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Nicaragua) Male",
+        "ShortName": "es-NI-FedericoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Panama) Female",
+        "ShortName": "es-PA-MargaritaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Panama) Male",
+        "ShortName": "es-PA-RobertoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Peru) Female",
+        "ShortName": "es-PE-CamilaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Peru) Male",
+        "ShortName": "es-PE-AlexNeural"
+    },
+    {
+        "DisplayName": "Spanish (Puerto Rico) Female",
+        "ShortName": "es-PR-KarinaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Puerto Rico) Male",
+        "ShortName": "es-PR-VictorNeural"
+    },
+    {
+        "DisplayName": "Spanish (Paraguay) Female",
+        "ShortName": "es-PY-TaniaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Paraguay) Male",
+        "ShortName": "es-PY-MarioNeural"
+    },
+    {
+        "DisplayName": "Spanish (El Salvador) Female",
+        "ShortName": "es-SV-LorenaNeural"
+    },
+    {
+        "DisplayName": "Spanish (El Salvador) Male",
+        "ShortName": "es-SV-RodrigoNeural"
+    },
+    {
+        "DisplayName": "Spanish (United States) Female",
+        "ShortName": "es-US-PalomaNeural"
+    },
+    {
+        "DisplayName": "Spanish (United States) Male",
+        "ShortName": "es-US-AlonsoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Uruguay) Female",
+        "ShortName": "es-UY-ValentinaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Uruguay) Male",
+        "ShortName": "es-UY-MateoNeural"
+    },
+    {
+        "DisplayName": "Spanish (Venezuela) Female",
+        "ShortName": "es-VE-PaolaNeural"
+    },
+    {
+        "DisplayName": "Spanish (Venezuela) Male",
+        "ShortName": "es-VE-SebastianNeural"
+    },
+    {
+        "DisplayName": "Estonian (Estonia) Female",
+        "ShortName": "et-EE-AnuNeural"
+    },
+    {
+        "DisplayName": "Estonian (Estonia) Male",
+        "ShortName": "et-EE-KertNeural"
+    },
+    {
+        "DisplayName": "Basque Female",
+        "ShortName": "eu-ES-AinhoaNeural"
+    },
+    {
+        "DisplayName": "Basque Male",
+        "ShortName": "eu-ES-AnderNeural"
+    },
+    {
+        "DisplayName": "Persian (Iran) Female",
+        "ShortName": "fa-IR-DilaraNeural"
+    },
+    {
+        "DisplayName": "Persian (Iran) Male",
+        "ShortName": "fa-IR-FaridNeural"
+    },
+    {
+        "DisplayName": "Finnish (Finland) Female",
+        "ShortName": "fi-FI-SelmaNeural"
+    },
+    {
+        "DisplayName": "Finnish (Finland) Male",
+        "ShortName": "fi-FI-HarriNeural"
+    },
+    {
+        "DisplayName": "Finnish (Finland) Female",
+        "ShortName": "fi-FI-NooraNeural"
+    },
+    {
+        "DisplayName": "Filipino (Philippines) Female",
+        "ShortName": "fil-PH-BlessicaNeural"
+    },
+    {
+        "DisplayName": "Filipino (Philippines) Male",
+        "ShortName": "fil-PH-AngeloNeural"
+    },
+    {
+        "DisplayName": "French (Belgium) Female",
+        "ShortName": "fr-BE-CharlineNeural"
+    },
+    {
+        "DisplayName": "French (Belgium) Male",
+        "ShortName": "fr-BE-GerardNeural"
+    },
+    {
+        "DisplayName": "French (Canada) Female",
+        "ShortName": "fr-CA-SylvieNeural"
+    },
+    {
+        "DisplayName": "French (Canada) Male",
+        "ShortName": "fr-CA-JeanNeural"
+    },
+    {
+        "DisplayName": "French (Canada) Male",
+        "ShortName": "fr-CA-AntoineNeural"
+    },
+    {
+        "DisplayName": "French (Canada) Male",
+        "ShortName": "fr-CA-ThierryNeural"
+    },
+    {
+        "DisplayName": "French (Switzerland) Female",
+        "ShortName": "fr-CH-ArianeNeural"
+    },
+    {
+        "DisplayName": "French (Switzerland) Male",
+        "ShortName": "fr-CH-FabriceNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-DeniseNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-HenriNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-AlainNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-BrigitteNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-CelesteNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-ClaudeNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-CoralieNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-EloiseNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-JacquelineNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-JeromeNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-JosephineNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-MauriceNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-VivienneNeural"
+    },
+    {
+        "DisplayName": "French (France) Male",
+        "ShortName": "fr-FR-YvesNeural"
+    },
+    {
+        "DisplayName": "French (France) Female",
+        "ShortName": "fr-FR-YvetteNeural"
+    },
+    {
+        "DisplayName": "Irish (Ireland) Female",
+        "ShortName": "ga-IE-OrlaNeural"
+    },
+    {
+        "DisplayName": "Irish (Ireland) Male",
+        "ShortName": "ga-IE-ColmNeural"
+    },
+    {
+        "DisplayName": "Galician Female",
+        "ShortName": "gl-ES-SabelaNeural"
+    },
+    {
+        "DisplayName": "Galician Male",
+        "ShortName": "gl-ES-RoiNeural"
+    },
+    {
+        "DisplayName": "Gujarati (India) Female",
+        "ShortName": "gu-IN-DhwaniNeural"
+    },
+    {
+        "DisplayName": "Gujarati (India) Male",
+        "ShortName": "gu-IN-NiranjanNeural"
+    },
+    {
+        "DisplayName": "Hebrew (Israel) Female",
+        "ShortName": "he-IL-HilaNeural"
+    },
+    {
+        "DisplayName": "Hebrew (Israel) Male",
+        "ShortName": "he-IL-AvriNeural"
+    },
+    {
+        "DisplayName": "Hindi (India) Female",
+        "ShortName": "hi-IN-SwaraNeural"
+    },
+    {
+        "DisplayName": "Hindi (India) Male",
+        "ShortName": "hi-IN-MadhurNeural"
+    },
+    {
+        "DisplayName": "Croatian (Croatia) Female",
+        "ShortName": "hr-HR-GabrijelaNeural"
+    },
+    {
+        "DisplayName": "Croatian (Croatia) Male",
+        "ShortName": "hr-HR-SreckoNeural"
+    },
+    {
+        "DisplayName": "Hungarian (Hungary) Female",
+        "ShortName": "hu-HU-NoemiNeural"
+    },
+    {
+        "DisplayName": "Hungarian (Hungary) Male",
+        "ShortName": "hu-HU-TamasNeural"
+    },
+    {
+        "DisplayName": "Armenian (Armenia) Female",
+        "ShortName": "hy-AM-AnahitNeural"
+    },
+    {
+        "DisplayName": "Armenian (Armenia) Male",
+        "ShortName": "hy-AM-HaykNeural"
+    },
+    {
+        "DisplayName": "Indonesian (Indonesia) Female",
+        "ShortName": "id-ID-GadisNeural"
+    },
+    {
+        "DisplayName": "Indonesian (Indonesia) Male",
+        "ShortName": "id-ID-ArdiNeural"
+    },
+    {
+        "DisplayName": "Icelandic (Iceland) Female",
+        "ShortName": "is-IS-GudrunNeural"
+    },
+    {
+        "DisplayName": "Icelandic (Iceland) Male",
+        "ShortName": "is-IS-GunnarNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-ElsaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-IsabellaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-DiegoNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-BenignoNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-CalimeroNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-CataldoNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-FabiolaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-FiammaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-GianniNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-GiuseppeNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-ImeldaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-IrmaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-LisandroNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-PalmiraNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Female",
+        "ShortName": "it-IT-PierinaNeural"
+    },
+    {
+        "DisplayName": "Italian (Italy) Male",
+        "ShortName": "it-IT-RinaldoNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Female",
+        "ShortName": "ja-JP-NanamiNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Male",
+        "ShortName": "ja-JP-KeitaNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Female",
+        "ShortName": "ja-JP-AoiNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Male",
+        "ShortName": "ja-JP-DaichiNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Female",
+        "ShortName": "ja-JP-MayuNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Male",
+        "ShortName": "ja-JP-NaokiNeural"
+    },
+    {
+        "DisplayName": "Japanese (Japan) Female",
+        "ShortName": "ja-JP-ShioriNeural"
+    },
+    {
+        "DisplayName": "Javanese (Latin, Indonesia) Female",
+        "ShortName": "jv-ID-SitiNeural"
+    },
+    {
+        "DisplayName": "Javanese (Latin, Indonesia) Male",
+        "ShortName": "jv-ID-DimasNeural"
+    },
+    {
+        "DisplayName": "Georgian (Georgia) Female",
+        "ShortName": "ka-GE-EkaNeural"
+    },
+    {
+        "DisplayName": "Georgian (Georgia) Male",
+        "ShortName": "ka-GE-GiorgiNeural"
+    },
+    {
+        "DisplayName": "Kazakh (Kazakhstan) Female",
+        "ShortName": "kk-KZ-AigulNeural"
+    },
+    {
+        "DisplayName": "Kazakh (Kazakhstan) Male",
+        "ShortName": "kk-KZ-DauletNeural"
+    },
+    {
+        "DisplayName": "Khmer (Cambodia) Female",
+        "ShortName": "km-KH-SreymomNeural"
+    },
+    {
+        "DisplayName": "Khmer (Cambodia) Male",
+        "ShortName": "km-KH-PisethNeural"
+    },
+    {
+        "DisplayName": "Kannada (India) Female",
+        "ShortName": "kn-IN-SapnaNeural"
+    },
+    {
+        "DisplayName": "Kannada (India) Male",
+        "ShortName": "kn-IN-GaganNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Female",
+        "ShortName": "ko-KR-SunHiNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Male",
+        "ShortName": "ko-KR-InJoonNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Male",
+        "ShortName": "ko-KR-BongJinNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Male",
+        "ShortName": "ko-KR-GookMinNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Male",
+        "ShortName": "ko-KR-HyunsuNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Female",
+        "ShortName": "ko-KR-JiMinNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Female",
+        "ShortName": "ko-KR-SeoHyeonNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Female",
+        "ShortName": "ko-KR-SoonBokNeural"
+    },
+    {
+        "DisplayName": "Korean (Korea) Female",
+        "ShortName": "ko-KR-YuJinNeural"
+    },
+    {
+        "DisplayName": "Lao (Laos) Female",
+        "ShortName": "lo-LA-KeomanyNeural"
+    },
+    {
+        "DisplayName": "Lao (Laos) Male",
+        "ShortName": "lo-LA-ChanthavongNeural"
+    },
+    {
+        "DisplayName": "Lithuanian (Lithuania) Female",
+        "ShortName": "lt-LT-OnaNeural"
+    },
+    {
+        "DisplayName": "Lithuanian (Lithuania) Male",
+        "ShortName": "lt-LT-LeonasNeural"
+    },
+    {
+        "DisplayName": "Latvian (Latvia) Female",
+        "ShortName": "lv-LV-EveritaNeural"
+    },
+    {
+        "DisplayName": "Latvian (Latvia) Male",
+        "ShortName": "lv-LV-NilsNeural"
+    },
+    {
+        "DisplayName": "Macedonian (North Macedonia) Female",
+        "ShortName": "mk-MK-MarijaNeural"
+    },
+    {
+        "DisplayName": "Macedonian (North Macedonia) Male",
+        "ShortName": "mk-MK-AleksandarNeural"
+    },
+    {
+        "DisplayName": "Malayalam (India) Female",
+        "ShortName": "ml-IN-SobhanaNeural"
+    },
+    {
+        "DisplayName": "Malayalam (India) Male",
+        "ShortName": "ml-IN-MidhunNeural"
+    },
+    {
+        "DisplayName": "Mongolian (Mongolia) Female",
+        "ShortName": "mn-MN-YesuiNeural"
+    },
+    {
+        "DisplayName": "Mongolian (Mongolia) Male",
+        "ShortName": "mn-MN-BataaNeural"
+    },
+    {
+        "DisplayName": "Marathi (India) Female",
+        "ShortName": "mr-IN-AarohiNeural"
+    },
+    {
+        "DisplayName": "Marathi (India) Male",
+        "ShortName": "mr-IN-ManoharNeural"
+    },
+    {
+        "DisplayName": "Malay (Malaysia) Female",
+        "ShortName": "ms-MY-YasminNeural"
+    },
+    {
+        "DisplayName": "Malay (Malaysia) Male",
+        "ShortName": "ms-MY-OsmanNeural"
+    },
+    {
+        "DisplayName": "Maltese (Malta) Female",
+        "ShortName": "mt-MT-GraceNeural"
+    },
+    {
+        "DisplayName": "Maltese (Malta) Male",
+        "ShortName": "mt-MT-JosephNeural"
+    },
+    {
+        "DisplayName": "Burmese (Myanmar) Female",
+        "ShortName": "my-MM-NilarNeural"
+    },
+    {
+        "DisplayName": "Burmese (Myanmar) Male",
+        "ShortName": "my-MM-ThihaNeural"
+    },
+    {
+        "DisplayName": "Norwegian Bokmål (Norway) Female",
+        "ShortName": "nb-NO-PernilleNeural"
+    },
+    {
+        "DisplayName": "Norwegian Bokmål (Norway) Male",
+        "ShortName": "nb-NO-FinnNeural"
+    },
+    {
+        "DisplayName": "Norwegian Bokmål (Norway) Female",
+        "ShortName": "nb-NO-IselinNeural"
+    },
+    {
+        "DisplayName": "Nepali (Nepal) Female",
+        "ShortName": "ne-NP-HemkalaNeural"
+    },
+    {
+        "DisplayName": "Nepali (Nepal) Male",
+        "ShortName": "ne-NP-SagarNeural"
+    },
+    {
+        "DisplayName": "Dutch (Belgium) Female",
+        "ShortName": "nl-BE-DenaNeural"
+    },
+    {
+        "DisplayName": "Dutch (Belgium) Male",
+        "ShortName": "nl-BE-ArnaudNeural"
+    },
+    {
+        "DisplayName": "Dutch (Netherlands) Female",
+        "ShortName": "nl-NL-FennaNeural"
+    },
+    {
+        "DisplayName": "Dutch (Netherlands) Male",
+        "ShortName": "nl-NL-MaartenNeural"
+    },
+    {
+        "DisplayName": "Dutch (Netherlands) Female",
+        "ShortName": "nl-NL-ColetteNeural"
+    },
+    {
+        "DisplayName": "Polish (Poland) Female",
+        "ShortName": "pl-PL-AgnieszkaNeural"
+    },
+    {
+        "DisplayName": "Polish (Poland) Male",
+        "ShortName": "pl-PL-MarekNeural"
+    },
+    {
+        "DisplayName": "Polish (Poland) Female",
+        "ShortName": "pl-PL-ZofiaNeural"
+    },
+    {
+        "DisplayName": "Pashto (Afghanistan) Female",
+        "ShortName": "ps-AF-LatifaNeural"
+    },
+    {
+        "DisplayName": "Pashto (Afghanistan) Male",
+        "ShortName": "ps-AF-GulNawazNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-FranciscaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-AntonioNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-BrendaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-DonatoNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-ElzaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-FabioNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-GiovannaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-HumbertoNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-JulioNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-LeilaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-LeticiaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-ManuelaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-NicolauNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-ThalitaNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Male",
+        "ShortName": "pt-BR-ValerioNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Brazil) Female",
+        "ShortName": "pt-BR-YaraNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Portugal) Female",
+        "ShortName": "pt-PT-RaquelNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Portugal) Male",
+        "ShortName": "pt-PT-DuarteNeural"
+    },
+    {
+        "DisplayName": "Portuguese (Portugal) Female",
+        "ShortName": "pt-PT-FernandaNeural"
+    },
+    {
+        "DisplayName": "Romanian (Romania) Female",
+        "ShortName": "ro-RO-AlinaNeural"
+    },
+    {
+        "DisplayName": "Romanian (Romania) Male",
+        "ShortName": "ro-RO-EmilNeural"
+    },
+    {
+        "DisplayName": "Russian (Russia) Female",
+        "ShortName": "ru-RU-SvetlanaNeural"
+    },
+    {
+        "DisplayName": "Russian (Russia) Male",
+        "ShortName": "ru-RU-DmitryNeural"
+    },
+    {
+        "DisplayName": "Russian (Russia) Female",
+        "ShortName": "ru-RU-DariyaNeural"
+    },
+    {
+        "DisplayName": "Sinhala (Sri Lanka) Female",
+        "ShortName": "si-LK-ThiliniNeural"
+    },
+    {
+        "DisplayName": "Sinhala (Sri Lanka) Male",
+        "ShortName": "si-LK-SameeraNeural"
+    },
+    {
+        "DisplayName": "Slovak (Slovakia) Female",
+        "ShortName": "sk-SK-ViktoriaNeural"
+    },
+    {
+        "DisplayName": "Slovak (Slovakia) Male",
+        "ShortName": "sk-SK-LukasNeural"
+    },
+    {
+        "DisplayName": "Slovenian (Slovenia) Female",
+        "ShortName": "sl-SI-PetraNeural"
+    },
+    {
+        "DisplayName": "Slovenian (Slovenia) Male",
+        "ShortName": "sl-SI-RokNeural"
+    },
+    {
+        "DisplayName": "Somali (Somalia) Female",
+        "ShortName": "so-SO-UbaxNeural"
+    },
+    {
+        "DisplayName": "Somali (Somalia) Male",
+        "ShortName": "so-SO-MuuseNeural"
+    },
+    {
+        "DisplayName": "Albanian (Albania) Female",
+        "ShortName": "sq-AL-AnilaNeural"
+    },
+    {
+        "DisplayName": "Albanian (Albania) Male",
+        "ShortName": "sq-AL-IlirNeural"
+    },
+    {
+        "DisplayName": "Serbian (Latin, Serbia) Male",
+        "ShortName": "sr-Latn-RS-NicholasNeural"
+    },
+    {
+        "DisplayName": "Serbian (Latin, Serbia) Female",
+        "ShortName": "sr-Latn-RS-SophieNeural"
+    },
+    {
+        "DisplayName": "Serbian (Cyrillic, Serbia) Female",
+        "ShortName": "sr-RS-SophieNeural"
+    },
+    {
+        "DisplayName": "Serbian (Cyrillic, Serbia) Male",
+        "ShortName": "sr-RS-NicholasNeural"
+    },
+    {
+        "DisplayName": "Sundanese (Indonesia) Female",
+        "ShortName": "su-ID-TutiNeural"
+    },
+    {
+        "DisplayName": "Sundanese (Indonesia) Male",
+        "ShortName": "su-ID-JajangNeural"
+    },
+    {
+        "DisplayName": "Swedish (Sweden) Female",
+        "ShortName": "sv-SE-SofieNeural"
+    },
+    {
+        "DisplayName": "Swedish (Sweden) Male",
+        "ShortName": "sv-SE-MattiasNeural"
+    },
+    {
+        "DisplayName": "Swedish (Sweden) Female",
+        "ShortName": "sv-SE-HilleviNeural"
+    },
+    {
+        "DisplayName": "Swahili (Kenya) Female",
+        "ShortName": "sw-KE-ZuriNeural"
+    },
+    {
+        "DisplayName": "Swahili (Kenya) Male",
+        "ShortName": "sw-KE-RafikiNeural"
+    },
+    {
+        "DisplayName": "Swahili (Tanzania) Female",
+        "ShortName": "sw-TZ-RehemaNeural"
+    },
+    {
+        "DisplayName": "Swahili (Tanzania) Male",
+        "ShortName": "sw-TZ-DaudiNeural"
+    },
+    {
+        "DisplayName": "Tamil (India) Female",
+        "ShortName": "ta-IN-PallaviNeural"
+    },
+    {
+        "DisplayName": "Tamil (India) Male",
+        "ShortName": "ta-IN-ValluvarNeural"
+    },
+    {
+        "DisplayName": "Tamil (Sri Lanka) Female",
+        "ShortName": "ta-LK-SaranyaNeural"
+    },
+    {
+        "DisplayName": "Tamil (Sri Lanka) Male",
+        "ShortName": "ta-LK-KumarNeural"
+    },
+    {
+        "DisplayName": "Tamil (Malaysia) Female",
+        "ShortName": "ta-MY-KaniNeural"
+    },
+    {
+        "DisplayName": "Tamil (Malaysia) Male",
+        "ShortName": "ta-MY-SuryaNeural"
+    },
+    {
+        "DisplayName": "Tamil (Singapore) Female",
+        "ShortName": "ta-SG-VenbaNeural"
+    },
+    {
+        "DisplayName": "Tamil (Singapore) Male",
+        "ShortName": "ta-SG-AnbuNeural"
+    },
+    {
+        "DisplayName": "Telugu (India) Female",
+        "ShortName": "te-IN-ShrutiNeural"
+    },
+    {
+        "DisplayName": "Telugu (India) Male",
+        "ShortName": "te-IN-MohanNeural"
+    },
+    {
+        "DisplayName": "Thai (Thailand) Female",
+        "ShortName": "th-TH-PremwadeeNeural"
+    },
+    {
+        "DisplayName": "Thai (Thailand) Male",
+        "ShortName": "th-TH-NiwatNeural"
+    },
+    {
+        "DisplayName": "Thai (Thailand) Female",
+        "ShortName": "th-TH-AcharaNeural"
+    },
+    {
+        "DisplayName": "Turkish (Turkey) Female",
+        "ShortName": "tr-TR-EmelNeural"
+    },
+    {
+        "DisplayName": "Turkish (Turkey) Male",
+        "ShortName": "tr-TR-AhmetNeural"
+    },
+    {
+        "DisplayName": "Ukrainian (Ukraine) Female",
+        "ShortName": "uk-UA-PolinaNeural"
+    },
+    {
+        "DisplayName": "Ukrainian (Ukraine) Male",
+        "ShortName": "uk-UA-OstapNeural"
+    },
+    {
+        "DisplayName": "Urdu (India) Female",
+        "ShortName": "ur-IN-GulNeural"
+    },
+    {
+        "DisplayName": "Urdu (India) Male",
+        "ShortName": "ur-IN-SalmanNeural"
+    },
+    {
+        "DisplayName": "Urdu (Pakistan) Female",
+        "ShortName": "ur-PK-UzmaNeural"
+    },
+    {
+        "DisplayName": "Urdu (Pakistan) Male",
+        "ShortName": "ur-PK-AsadNeural"
+    },
+    {
+        "DisplayName": "Uzbek (Latin, Uzbekistan) Female",
+        "ShortName": "uz-UZ-MadinaNeural"
+    },
+    {
+        "DisplayName": "Uzbek (Latin, Uzbekistan) Male",
+        "ShortName": "uz-UZ-SardorNeural"
+    },
+    {
+        "DisplayName": "Vietnamese (Vietnam) Female",
+        "ShortName": "vi-VN-HoaiMyNeural"
+    },
+    {
+        "DisplayName": "Vietnamese (Vietnam) Male",
+        "ShortName": "vi-VN-NamMinhNeural"
+    },
+    {
+        "DisplayName": "Chinese (Wu, Simplified) Female",
+        "ShortName": "wuu-CN-XiaotongNeural"
+    },
+    {
+        "DisplayName": "Chinese (Wu, Simplified) Male",
+        "ShortName": "wuu-CN-YunzheNeural"
+    },
+    {
+        "DisplayName": "Chinese (Cantonese, Simplified) Female",
+        "ShortName": "yue-CN-XiaoMinNeural"
+    },
+    {
+        "DisplayName": "Chinese (Cantonese, Simplified) Male",
+        "ShortName": "yue-CN-YunSongNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoxiaoNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunxiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunjianNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoyiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunyangNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaochenNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaohanNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaomengNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaomoNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoqiuNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoruiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoshuangNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoxuanNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoyanNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaoyouNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaozhenNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunfengNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunhaoNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunxiaNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunyeNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunzeNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-XiaorouNeural"
+    },
+    {
+        "DisplayName": "Chinese (Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-YunjieNeural"
+    },
+    {
+        "DisplayName": "Chinese (Guangxi Accent Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-guangxi-YunqiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Zhongyuan Mandarin Henan, Simplified) Male",
+        "ShortName": "zh-CN-henan-YundengNeural"
+    },
+    {
+        "DisplayName": "Chinese (Northeastern Mandarin, Simplified) Female",
+        "ShortName": "zh-CN-liaoning-XiaobeiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Northeastern Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-liaoning-YunbiaoNeural"
+    },
+    {
+        "DisplayName": "Chinese (Zhongyuan Mandarin Shaanxi, Simplified) Female",
+        "ShortName": "zh-CN-shaanxi-XiaoniNeural"
+    },
+    {
+        "DisplayName": "Chinese (Jilu Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-shandong-YunxiangNeural"
+    },
+    {
+        "DisplayName": "Chinese (Southwestern Mandarin, Simplified) Male",
+        "ShortName": "zh-CN-sichuan-YunxiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Cantonese, Traditional) Female",
+        "ShortName": "zh-HK-HiuMaanNeural"
+    },
+    {
+        "DisplayName": "Chinese (Cantonese, Traditional) Male",
+        "ShortName": "zh-HK-WanLungNeural"
+    },
+    {
+        "DisplayName": "Chinese (Cantonese, Traditional) Female",
+        "ShortName": "zh-HK-HiuGaaiNeural"
+    },
+    {
+        "DisplayName": "Chinese (Taiwanese Mandarin, Traditional) Female",
+        "ShortName": "zh-TW-HsiaoChenNeural"
+    },
+    {
+        "DisplayName": "Chinese (Taiwanese Mandarin, Traditional) Male",
+        "ShortName": "zh-TW-YunJheNeural"
+    },
+    {
+        "DisplayName": "Chinese (Taiwanese Mandarin, Traditional) Female",
+        "ShortName": "zh-TW-HsiaoYuNeural"
+    },
+    {
+        "DisplayName": "Zulu (South Africa) Female",
+        "ShortName": "zu-ZA-ThandoNeural"
+    },
+    {
+        "DisplayName": "Zulu (South Africa) Male",
+        "ShortName": "zu-ZA-ThembaNeural"
+    }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Text to Speech Converter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="heading-container">
+            <h1>Azure AI services | Text to Speech service</h1>
+        </div>
+        <form id="textToSpeechForm">
+            <div class="form-container">
+                <select id="voiceDropdown" name="voice">
+                </select>
+                <textarea maxlength="1000" id="textInput" placeholder="Enter text here..."></textarea>
+                <div class="max-length">*Max text length = 300</div>
+                <button class="button-9" id="submitText" type="submit">Convert Text</button>
+            </div>
+        </form>
+        <div class="audio-container">
+            <audio id="audioPlayer" controls hidden></audio>
+        </div>
+        <div class="submission-container">
+            <p><b>ITIS 6177 - Final Project <br>
+            Submitted By - <br>
+            Shanmukh Gorle (801311172)</b></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
