@@ -16,7 +16,7 @@ const options = {
       description: 'Text to Speech API using Azure AI',
     },
     servers: [{
-      url: `http://198.199.83.188:${config.port}`,
+      url: process.env.BASE_URL || 'http://localhost:3000',
     }],
   },
   apis: ['./src/routes/routes.js'],
