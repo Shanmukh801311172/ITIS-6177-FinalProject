@@ -19,7 +19,7 @@ const options = {
       url: `http://198.199.83.188:${config.port}`,
     }],
   },
-  apis: ['./routes.js'],
+  apis: ['./src/routes/routes.js'],
 };
 const swaggerSpec = swaggerJsdoc(options);
 
