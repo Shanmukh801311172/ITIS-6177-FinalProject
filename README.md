@@ -2,7 +2,7 @@
 # Text to Speech API using Azure AI Services
 
 ## Overview
-This project provides an API for converting text to speech using Azure AI services. It includes a web interface for user interaction and an underlying Node.js server that handles API requests to Azure's Text to Speech service. The project is designed as part of ITIS 6177 - Final Project by Shanmukh Gorle (801311172).
+This project provides an API for converting text to speech using Azure AI services. It includes a web interface for user interaction and an underlying Node.js server that handles API requests to Azure's Text to Speech service. The project is designed as part of ITIS 6177 - Final Project by Shanmukh Gorle.
 
 ## Features
 - **Text to Speech Conversion**: Converts user-inputted text to speech using Azure AI services.
@@ -138,4 +138,4 @@ Contributions are welcome. Please submit a pull request or an issue for any feat
 ---
 
 Developed as part of ITIS 6177 - Final Project
-Submitted By: Shanmukh Gorle (801311172)
+Submitted By: Shanmukh Gorle
