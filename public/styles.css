@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     background-size: cover;
-    background-image: url('background.png');
+    background-image: url('background.jpeg');
     font-family: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Ubuntu, sans-serif;
 }
 
@@ -14,12 +14,11 @@ body {
     color: white;
     margin: auto;
     width: 50%;
-
     display: flex;
     flex-direction: column;
     padding: 20px 100px;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
-    background: #000000ab;
+    box-shadow: rgb(17 17 26) 0px 4px 16px, rgb(17 17 26) 0px 8px 24px, rgb(17 17 26) 0px 16px 56px;
+    background: rgb(0 0 0 / 64%);
 }
 
 .form-container {
