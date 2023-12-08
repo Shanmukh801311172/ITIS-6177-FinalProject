@@ -2,7 +2,7 @@ const { body, validationResult } = require('express-validator');
 
 const validateTextToSpeech = [
   body('text').notEmpty().withMessage('Text is required')
-    .isLength({ max: 300 }).withMessage('Text length exceeds 300 characters')
+    .isLength({ max: 1000 }).withMessage('Text length exceeds 1000 characters')
     .trim(),
   body('voice').optional().isString().withMessage('Voice must be a string').trim(),
 ];
