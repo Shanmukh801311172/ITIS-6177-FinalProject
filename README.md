@@ -121,12 +121,12 @@ Create a DigitalOcean droplet with CentOS 8 and SSH into the server.
 
 2. **Run the Node.js App with PM2:**
    ```sh
-   pm2 start npm -- start
+   pm2 start app.js --name "my-app" --output /root/output.log --error /root/error.log
    ```
 
 3. **Monitor Application:**
-   - To show details about the app: `pm2 show your-app-name`
-   - To view logs: `cat /home/user/.pm2/logs/app-out.log`
+   - To show details about the app: `pm2 show my-app`
+   - To view logs: `cat /root/output.log`
 
 The application is now successfully deployed and managed using PM2 on a DigitalOcean server.
 
