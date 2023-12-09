@@ -3,6 +3,8 @@ document.getElementById('textToSpeechForm').addEventListener('submit', function 
 
     const textInput = document.getElementById('textInput').value;
     const selectedVoice = document.getElementById('voiceDropdown').value;
+    const loadingSpinner = document.getElementById('loadingOverlay');
+    loadingSpinner.style.display = 'block';
     fetch('/generate', {
         method: 'POST',
         headers: {
@@ -22,8 +24,12 @@ document.getElementById('textToSpeechForm').addEventListener('submit', function 
             const audioPlayer = document.getElementById('audioPlayer');
             audioPlayer.src = url;
             audioPlayer.hidden = false;
+            loadingSpinner.style.display = 'none';
         })
-        .catch(error => console.error('Error:', error));
+        .catch(error => {
+            console.error('Error:', error);
+            loadingSpinner.style.display = 'none';
+        });
 });
 document.addEventListener('DOMContentLoaded', function () {
     fetch('voicesShrinked.json')
