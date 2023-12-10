@@ -22,6 +22,7 @@ This project provides an API for converting text to speech using Azure AI servic
    ```
    SPEECH_KEY=<Your_Azure_Speech_Key>
    SPEECH_REGION=<Your_Azure_Service_Region>
+   BASE_URL=<Your_Base_URL>
    ```
 
 ## Usage
@@ -62,6 +63,7 @@ This project provides an API for converting text to speech using Azure AI servic
 - `validations.js`: Validation middleware for API requests.
 - `app.js`: Main server file.
 - `config.js`: Configuration settings for the server and Azure AI services.
+- `Userguide.pdf`: A user guide to use the API.
 
 # Deployment
 
@@ -130,6 +132,19 @@ Create a DigitalOcean droplet with CentOS 8 and SSH into the server.
 
 The application is now successfully deployed and managed using PM2 on a DigitalOcean server.
 
+## References
+
+### Azure Cognitive Services Speech SDK Quickstart for Text-to-Speech
+
+You can find a comprehensive example and quickstart guide for using Azure Cognitive Services Speech SDK with JavaScript/Node.js for text-to-speech on the official Azure Samples GitHub repository:
+
+[**Azure Cognitive Services Speech SDK Quickstart for Text-to-Speech (JavaScript/Node.js)**](https://github.com/Azure-Samples/cognitive-services-speech-sdk/tree/master/quickstart/javascript/node/text-to-speech)
+
+This guide provides step-by-step instructions and sample code to help you get started with text-to-speech using the Azure Cognitive Services Speech SDK. It covers setting up the SDK, authentication, and synthesizing text into speech. 
+
+For detailed documentation and more information about the Azure Cognitive Services Speech SDK, refer to the [official Azure Cognitive Services documentation](https://docs.microsoft.com/azure/cognitive-services/speech-service/).
+
+Get Speech Services API key from [Microsoft Cognitive Services - Speech Services API](https://azure.microsoft.com/en-us/try/cognitive-services/?api=speech-services)
 
 ## Contributions
 
